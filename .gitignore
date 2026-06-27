@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+data/raw/*.arff
+data/processed/
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
+venv/
+env/
+models/tuned_rf.joblib
